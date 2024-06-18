@@ -1,2 +1,2 @@
-# MrFroglegs.github.io
+# MrFroglegs.com
 BDM MOTD
